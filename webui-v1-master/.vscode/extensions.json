@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "usernamehw.errorlens",
+    "ms-vscode.vscode-typescript-next",
+    "pulkitgangwar.nextjs-snippets",
+    "esbenp.prettier-vscode",
+    "yoavbls.pretty-ts-errors",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
